@@ -1,2 +1,2 @@
 #!/bin/bash
-find . type f | -n 10 ls -t 
+ls -t -n 10 
